@@ -5,7 +5,7 @@
 - all icon was downloaded from [icons8](https://icons8.com/)
 - If you don't have a programming background, you can only modify
   
-    - // <div class="modal-icons">
+    -   <div class="modal-icons">
     <div class="flex-container"> 
 
         <a href="https://www.facebook.com/profile.php?id=100005690234888" target="_blank"> 
